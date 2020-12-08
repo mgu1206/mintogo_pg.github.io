@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 
 ---
 
-My name is Gyeong-Uk Min (Josepth Min). I have the following programming qualities:
+My name is Gyeong-Uk Min (Josepth Min). I have the following programming qualities:1
 
 - C / C++ (Intermediate)
 - QML (Intermediate)
